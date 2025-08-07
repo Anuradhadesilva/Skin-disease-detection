@@ -1,4 +1,4 @@
-<img width="505" height="419" alt="Screenshot 2025-07-25 at 08 31 09" src="https://github.com/user-attachments/assets/4bf74ec0-8f23-4037-b548-0e5451406ee9" />🩺 AI-Based Skin Disease Detection System
+🩺 AI-Based Skin Disease Detection System
 
 This project implements a deep learning-based system to detect common skin diseases — **eczema, psoriasis, ringworm**, and more — from real-world, uncropped images. The system combines **U-Net** for lesion segmentation and **EfficientNet-B0** for classification. I have use dataset from various skin tones. The user can upload a real-world image without cropping.
 
