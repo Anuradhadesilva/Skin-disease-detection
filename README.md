@@ -3,6 +3,17 @@
 This project implements a deep learning-based system to detect common skin diseases — **eczema, psoriasis, ringworm**, and more — from real-world, uncropped images. The system combines **U-Net** for lesion segmentation and **EfficientNet-B0** for classification. I have use dataset from various skin tones. The user can upload a real-world image without cropping.
 
 ---
+## 📁 Download Models & Dataset
+
+You can download the trained models from the following Google Drive link:
+
+https://drive.google.com/drive/folders/1H0A2PsHH8bmJxlWOhzyzU8OIdM6KH7qo?usp=drive_link
+
+You can download datasets from the following Google Drive link:
+Classifier dataset: https://drive.google.com/drive/folders/1icbqud0NAI6UMfUJY2cvkMmuJmiMRKjz?usp=drive_link
+Segmentation dataset: https://drive.google.com/drive/folders/1ZhU5hDGXRw4K0R4neq_MRsVlrcYQYEPY?usp=drive_link
+
+---
 
 ## 📸 Example Results
 
