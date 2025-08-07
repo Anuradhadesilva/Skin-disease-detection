@@ -21,6 +21,7 @@ Final predicted disease label
 > <img width="1004" height="441" alt="Screenshot 2025-08-02 at 16 36 44" src="https://github.com/user-attachments/assets/e508d6a4-c159-4ae0-a6e6-246c9324dc15" />
 
 Web UI
+
 <img width="386" height="608" alt="Screenshot 2025-08-07 at 11 43 08" src="https://github.com/user-attachments/assets/644cfe8e-16e2-488b-ad80-47be79e307f3" />
 
 ---
@@ -66,8 +67,7 @@ project/
 
 ### 📈 Training Curves
 
-<img width="306" height="132" alt="Screenshot 2025-08-02 at 16 44 01" src="https://github.com/user-attachments/assets/f70926e3-1684-4094-a2d7-ef46e84621d4" />
-
+<img width="1000" height="400" alt="Figure_1" src="https://github.com/user-attachments/assets/6c2de7ca-5512-46c3-8b4d-ba7d0c757578" />
 
 
 
