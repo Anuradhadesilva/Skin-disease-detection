@@ -22,7 +22,9 @@ Final predicted disease label
 
 Web UI
 
-<img width="386" height="608" alt="Screenshot 2025-08-07 at 11 43 08" src="https://github.com/user-attachments/assets/644cfe8e-16e2-488b-ad80-47be79e307f3" />
+<img width="705" height="664" alt="Screenshot 2025-08-07 at 12 00 38" src="https://github.com/user-attachments/assets/2819efdc-cf51-4503-a4bc-d89cd54fbbb9" /> ![Uploading Screenshot 2025-08-07 at 12.01.22.png…]()
+
+
 
 ---
 
