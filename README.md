@@ -1,20 +1,21 @@
-![img_27](https://github.com/user-attachments/assets/db19ac0f-2708-48cb-9c25-d9c09d99413c) 🩺 AI-Based Skin Disease Detection System
+![img_27](https://github.com/user-attachments/assets/90d3c848-dc6d-4b7d-a85e-fb9d7c321abf)![img_27](https://github.com/user-attachments/assets/db19ac0f-2708-48cb-9c25-d9c09d99413c) 🩺 AI-Based Skin Disease Detection System
 
 This project implements a deep learning-based system to detect common skin diseases — **eczema, psoriasis, ringworm**, and more — from real-world, uncropped images. The system combines **U-Net** for lesion segmentation and **EfficientNet-B0** for classification.
 
 ---
 
- 📷 Example Results
+## 📸 Example Results
 
-> Add your image outputs below this section — like original image, segmentation mask, and predicted label.
+Below are some sample predictions showing:
+- Original image
+- Segmented lesion
+- Final predicted disease label
 
-| Original Image | Segmentation Mask | Predicted Class |
-|----------------|-------------------|------------------|
-| ![i<img width="499" height="325" alt="Screenshot 2025-08-02 at 16 41 51" src="https://github.com/user-attachments/assets/b5348c75-fb7e-4299-bf1d-c59ff67d85a7" />
-mg_27](https://github.com/user-attachments/assets/8a411a0a-fefe-4fc0-af33-4861b7b6bb64)
- |  | Psorsis ✅ |
-
-<img width="1004" height="441" alt="Screenshot 2025-08-02 at 16 36 44" src="https://github.com/user-attachments/assets/3adb8462-cb6c-4953-b7a1-f6f0875311c0" />
+> _You can add output images here:_  
+> `![Orginal](https://github.com/user-attachments/assets/fd72ffd5-6fd8-4507-a4b7-2a97066c2338)`  
+> `![Uploading Screenshot 2025-08-02 at 16.41.51.png…]()` 
+ 
+> `![Prediction](images/prediction_sample.jpg)`
 
 ---
 
