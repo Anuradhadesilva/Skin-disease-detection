@@ -12,10 +12,13 @@ Below are some sample predictions showing:
 - Final predicted disease label
 
 > _You can add output images here:_  
-> `![Orginal](https://github.com/user-attachments/assets/fd72ffd5-6fd8-4507-a4b7-2a97066c2338)`  
-> `![Uploading Screenshot 2025-08-02 at 16.41.51.png…]()` 
+> ![img_27](https://github.com/user-attachments/assets/70508e2f-bb0f-4e35-8796-f0e751198610)
+
+> <img width="499" height="325" alt="Screenshot 2025-08-02 at 16 41 51" src="https://github.com/user-attachments/assets/ee7adb34-6221-4971-a70d-37a8a8d6b69f" />
+><img width="1004" height="441" alt="Screenshot 2025-08-02 at 16 36 44" src="https://github.com/user-attachments/assets/e508d6a4-c159-4ae0-a6e6-246c9324dc15" />
+
  
-> `![Prediction](images/prediction_sample.jpg)`
+
 
 ---
 
