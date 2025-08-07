@@ -52,4 +52,4 @@ def predict(image_path):
     plt.show()
 
 
-predict("/Users/desilvaanuradha/Documents/FYP/Ezcema-Detection/test_images/ecz_25.jpg")
+predict("/Users/desilvaanuradha/Documents/FYP/Skin-diseases-detection/test_images/249.jpg")
